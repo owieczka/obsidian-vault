@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 10,
+  "translucency": false,
+  "cssTheme": "Atom",
+  "monospaceFontFamily": "",
+  "textFontFamily": "",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "obsidian"
+  ],
+  "accentColor": ""
+}

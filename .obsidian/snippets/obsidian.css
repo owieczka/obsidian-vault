@@ -1,0 +1,11 @@
+/*Distance of line numbers for edge of the card*/
+body.plugin-sliding-panes-rotate-header .workspace > .mod-root > .workspace-leaf > .workspace-leaf-content > .view-content .markdown-source-view.mod-cm6 .cm-scroller,
+.markdown-source-view.mod-cm6 .cm-scroller {
+  /*font-family: var(--font-text);*/
+  padding: 10px;
+}
+
+/*Top padding of the card*/
+.cm-scroller {
+    padding-top: 15px !important;
+}
